@@ -3,9 +3,8 @@
 
 ## Project Overview
 
-<<<<<<< HEAD
 ## Data Sources
-[Kaggle Datasets](https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data)
+[Kaggle Stock Exchange Dataset](https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data)
 ## References
 [Panda References](https://pandas.pydata.org/docs/reference/frame.html)
 
