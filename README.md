@@ -4,10 +4,10 @@
 ## Project Overview
 
 ## Data Sources
-[Kaggle Stock Exchange Dataset](https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data)
+- [Kaggle Stock Exchange Dataset](https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data)
 ## References
-[Panda References](https://pandas.pydata.org/docs/reference/frame.html)
-[Plotly References](https://plotly.com/python/getting-started/#overview)
+- [Panda References](https://pandas.pydata.org/docs/reference/frame.html)
+- [Plotly References](https://plotly.com/python/getting-started/#overview)
 
 
 ## License
